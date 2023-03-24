@@ -28,3 +28,4 @@ for i,j in friendship:
     D[j].append(i)
 for i,j in D.items():
     print(f'{i}:{j}')
+    #sdfjasdkfjasdfjklfsdaljk;
